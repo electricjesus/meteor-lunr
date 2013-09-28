@@ -3,7 +3,7 @@
   "description": "Lunr.js for Meteor. A bit like Solr, but much smaller and not as bright.",
   "homepage": "https://github.com/electricjesus/meteor-lunr/",
   "author": "Oliver Nightingale <http://twitter.com/olivernn>, Seth Malaki <seth.malaki@gmail.com>",
-  "version": "0.4.2.1",
+  "version": "0.4.2.2",
   "git": "https://github.com/electricjesus/meteor-lunr.git",
   "packages": {}
 }

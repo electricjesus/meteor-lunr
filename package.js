@@ -11,4 +11,8 @@ Package.on_use(function (api) {
   api.add_files([
     'lunr/lunr.min.js'
   ], 'client');
+
+  api.add_files([
+    'server.js'
+  ], 'server');
 });

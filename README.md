@@ -1,7 +1,7 @@
 meteor-lunr
 ===========
 
-[Lunr.js](http://www.lunrjs.com) packaged for meteor
+[Lunr.js](http://lunrjs.com) packaged for meteor
 ----------------------------------------------------
 
 Support this! [![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/electricjesus/)
